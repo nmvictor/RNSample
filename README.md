@@ -46,6 +46,13 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
+### API (https://mockapi.io)
+Mocking API from https://655e26209f1e1093c59a9a58.mockapi.io/rnsample/api/v1/users
+
+### Navigation Library 
+ 
+Navigation Library used: https://reactnavigation.org/ to make use of stacks for push navigations into details screen and back to home screen.
+
 ## Step 3: Modifying your App
 
 Now that you have successfully run the app, let's modify it.
